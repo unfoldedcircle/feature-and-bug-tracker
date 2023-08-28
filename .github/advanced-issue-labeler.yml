@@ -1,0 +1,15 @@
+policy:
+  - section:
+      - id: [affected_area]
+        block-list: ['None', 'Other']
+        label:
+          - name: 'ui'
+            keys: ['UI']
+          - name: 'core'
+            keys: ['Core']
+          - name: 'web configurator'
+            keys: ['Web Configurator']
+          - name: 'system'
+            keys: ['Overall system']
+          - name: 'integration'
+            keys: ['Integration']
