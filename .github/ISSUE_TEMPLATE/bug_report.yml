@@ -1,6 +1,6 @@
 name: Bug report
 description: If you encountered an issue with an Unfolded Circle product, please let us know by describing the issue, reproduction steps and any logs you have.
-title: '<title>'
+title: '[bug] title'
 labels: [bug]
 
 body:
